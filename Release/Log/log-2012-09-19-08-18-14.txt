@@ -1,0 +1,27 @@
+08:18:14:970 soc_remote software v1 < build Sep 19 2012-08:05:51 >
+08:18:14:970 args = "-debug -log"
+08:18:14:986 work dir = "d:\用户目录\documents\visual studio 2010\Projects\soc_remote\Release"
+08:18:15:032 bind tree node... ...
+08:18:15:064 bind control... ...
+08:18:15:188 buttonName=button_1"buttonText=1"X=30"Y=40
+08:18:15:188 buttonName=button_2"buttonText=2"X=150"Y=40
+08:18:15:188 buttonName=button_3"buttonText=3"X=270"Y=40
+08:18:15:188 buttonName=button_4"buttonText=4"X=30"Y=70
+08:18:15:204 buttonName=button_5"buttonText=5"X=150"Y=70
+08:18:15:204 buttonName=button_6"buttonText=6"X=270"Y=70
+08:18:15:204 buttonName=button_7"buttonText=7"X=30"Y=100
+08:18:15:204 buttonName=button_8"buttonText=8"X=150"Y=100
+08:18:15:204 buttonName=button_9"buttonText=9"X=270"Y=100
+08:18:15:204 buttonName=button_10"buttonText=RECALL"X=30"Y=130
+08:18:15:204 buttonName=button_11"buttonText=0"X=150"Y=130
+08:18:15:204 buttonName=button_12"buttonText=INFO"X=270"Y=130
+08:18:15:204 buttonName=button_13"buttonText=MENU"X=30"Y=180
+08:18:15:204 buttonName=button_14"buttonText=UP"X=150"Y=180
+08:18:15:220 buttonName=button_15"buttonText=RETURN"X=270"Y=180
+08:18:15:220 buttonName=button_16"buttonText=LEFT"X=80"Y=210
+08:18:15:220 buttonName=button_17"buttonText=ENTER"X=150"Y=210
+08:18:15:220 buttonName=button_18"buttonText=RIGHT"X=220"Y=210
+08:18:15:220 buttonName=button_19"buttonText=GUID"X=30"Y=240
+08:18:15:220 buttonName=button_20"buttonText=DOWN"X=150"Y=240
+08:18:15:220 buttonName=button_21"buttonText=FAV"X=270"Y=240
+08:18:15:266 node selected. -> VMPU
